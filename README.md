@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="https://github.com/santipvz">
-  <img height="180em" src="https://github-readme-stats-liard-nu-21.vercel.app/api?username=santipvz&show_icons=true&theme=algolia&hide=stars&hide_title=true&show=reviews,prs_merged&include_all_commits=true" alt="GitHub Stats" style="width: 450px;"/>
+  <img height="180em" src="https://github-readme-stats-liard-nu-21.vercel.app/api?username=santipvz&show_icons=true&theme=algolia&hide=stars&hide_title=true&show=reviews,prs_merged&include_all_commits=true" alt="GitHub Stats" style="width: 600px;"/>
   <img height="180em" src="https://github-readme-stats-liard-nu-21.vercel.app/api/top-langs/?username=santipvz&theme=algolia&hide=ShaderLab,HLSL"/>
   
 </a>
