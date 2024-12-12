@@ -24,8 +24,9 @@
 
 <p align="center">
 <a href="https://github.com/santipvz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santipvz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santipvz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-liard-nu-21.vercel.app/api?username=santipvz&show_icons=true&theme=algolia&hide=stars&hide_title=true&show=reviews,prs_merged&include_all_commits=true" alt="GitHub Stats" style="width: 450px;"/>
+  <img height="180em" src="https://github-readme-stats-liard-nu-21.vercel.app/api/top-langs/?username=santipvz&theme=algolia&hide=ShaderLab,HLSL"/>
+  
 </a>
 </p>
 
