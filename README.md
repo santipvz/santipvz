@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9818F7&width=435&lines=Welcome+to+my+profile!;Prolog+sucks!)](https://git.io/typing-svg)
 
 - 🌱 I’m currently studying Artificial Intelligence at University of Vigo
-- 🔭 I’m currently working on ML projects such as Recomendation Systems and Regression/Classification models using sci-kit.
+- 🔭 I’m currently working on ML vision models using YOLO 
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>       Tech Stack</b>
