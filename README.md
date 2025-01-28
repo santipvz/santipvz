@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently studying **Artificial Intelligence** at the **University of Vigo**.
-- 🚗 I’m working on **software development** for a Formula Student car with **Auria Technologies**.
+- 🚗 I’m working on **software development** for a Formula Student car with [**Auria Technologies**](https://github.com/Auria-Technologies).
 - 🔥 I’m currently learning **JavaScript**.
 
 ## 📊 GitHub Stats
