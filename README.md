@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9818F7&height=120&section=header&text=Santiago%20Palomino&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Cybersecurity&descAlignY=60&descColor=ddd&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9818F7&height=120&section=header&text=Santiago%20Palomino&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60&descColor=ddd&descAlign=50" width="100%"/>
 </div>
 
 <br/>
@@ -20,17 +20,14 @@
 currently = {
     "studying" : "BSc AI @ University of Vigo",           # send help
     "building" : "autonomous racing car 🏎️ @ Auria",
-    "working"  : "SOC analyst @ Telefónica Tech 🔐",
     "hardware" : "NVIDIA Jetson Orin (she overheats but she tries)",
 }
 
 interests = [
     "computer vision",        # YOLO goes brrr
-    "cybersecurity",
     "autonomous systems",
 ]
 
-fun_fact = "YOLO stands for You Only Look Once, which is also my approach before git push"
 ```
 
 ---
